@@ -1,0 +1,2 @@
+# House-Price-Prediction-System-in-R-
+House Price Prediction System is a mathematical implementation predicting the retail pricing of houses in R, using linear regression tools. We have taken into factor various parameters such as residential area, crime rate, air quality and access to transportation among others. We have furthered created a reliable visualization of data and studied the use of the regression model to understand the relationship between the outcome variable and potential predictors.
